@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Activity Result Contracts</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="crop_image_activity">Crop Image Activity</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="save_image_from_camera_activity">Save Image From Camera Activity</string>
+    <string name="tester">Tester</string>
+    <string name="open_single_document_activity">Open Single Document Activity</string>
+    <string name="open_multiple_documents_activity">Open Multiple Documents Activity</string>
+    <string name="file_path">File Path</string>
+    <string name="file_real_name">File Real Name</string>
+    <string name="file_generate_name">File Generate Name</string>
+    <string name="file_size">File Size</string>
+    <string name="file_mime_type">File MimeType</string>
+    <string name="open_single_document">Open Single Document</string>
+    <string name="open_multiple_documents">Open Multiple Documents</string>
+</resources>
